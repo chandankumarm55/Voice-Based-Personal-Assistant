@@ -49,19 +49,24 @@ Start the development server:
 bash
 npm start
 ```
-Usage
-Voice Commands: Click the microphone icon (CiMicrophoneOn) to start speaking. Click the stop icon (FaStop) to stop.
-Text Commands: Type your command in the input field and press the send icon (IoSend).
-Supported Commands
-Open Google: Opens Google in a new tab.
-Open YouTube: Opens YouTube in a new tab.
-Open Facebook: Opens Facebook in a new tab.
-Open Calculator: Opens the Calculator app.
-Open Notepad: Opens the Notepad app.
-Open Paint: Opens the Paint app.
-Open Command Prompt: Opens the Command Prompt.
-Open File Explorer: Opens the File Explorer.
-Open Settings: Opens the Settings.
-Custom Searches
+## Usage
+
+- **Voice Commands**: Click the microphone icon (`CiMicrophoneOn`) to start speaking. Click the stop icon (`FaStop`) to stop.
+- **Text Commands**: Type your command in the input field and press the send icon (`IoSend`).
+
+### Supported Commands
+
+- **Open Google**: Opens Google in a new tab.
+- **Open YouTube**: Opens YouTube in a new tab.
+- **Open Facebook**: Opens Facebook in a new tab.
+- **Open Calculator**: Opens the Calculator app.
+- **Open Notepad**: Opens the Notepad app.
+- **Open Paint**: Opens the Paint app.
+- **Open Command Prompt**: Opens the Command Prompt.
+- **Open File Explorer**: Opens the File Explorer.
+- **Open Settings**: Opens the Settings.
+
+### Custom Searches
+
 If the command does not match any of the above, the assistant will perform a Google search with the provided query.
 
